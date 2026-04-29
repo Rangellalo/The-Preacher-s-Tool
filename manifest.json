@@ -1,0 +1,10 @@
+{
+  "id": "the-preachers-tool",
+  "name": "The Preacher's Tool",
+  "version": "1.0.0-beta.1",
+  "minAppVersion": "1.5.0",
+  "description": "A sermon, Bible study, workbook, and print-preparation workflow plugin for Obsidian.",
+  "author": "Edward Rangel",
+  "authorUrl": "https://github.com/Rangellalo",
+  "isDesktopOnly": false
+}

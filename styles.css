@@ -1,0 +1,47 @@
+/* The Preacher's Tool — Plugin UI Styles Only */
+
+.tpt-settings-heading {
+  margin-top: 1.5rem;
+  padding-top: 1rem;
+  border-top: 1px solid var(--background-modifier-border);
+  font-weight: 700;
+  font-size: 1em;
+  color: var(--text-normal);
+}
+.tpt-settings-description {
+  color: var(--text-muted);
+  font-size: 0.9em;
+  line-height: 1.5;
+  margin-bottom: 0.75rem;
+}
+.tpt-template-preview {
+  border: 1px solid var(--background-modifier-border);
+  border-radius: 8px;
+  padding: 12px;
+  background: var(--background-secondary);
+  font-size: 0.9em;
+  line-height: 1.5;
+  font-family: var(--font-monospace);
+  white-space: pre-wrap;
+  margin-top: 0.5rem;
+}
+.tpt-helper-block {
+  border-left: 4px solid var(--interactive-accent);
+  padding: 0.75rem 1rem;
+  margin: 1rem 0;
+  background: var(--background-secondary);
+  border-radius: 0 6px 6px 0;
+}
+.tpt-helper-block-title {
+  font-weight: 700;
+  margin-bottom: 0.35rem;
+  color: var(--text-accent);
+  font-size: 0.95em;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+}
+.tpt-command-note {
+  color: var(--text-muted);
+  font-size: 0.85em;
+  margin-top: 0.25rem;
+}
